@@ -2,7 +2,7 @@
 
 Esse site foi feito em HTML, CSS e JS. Também foi usado o SASS e o framework Bootstrap.
 
-Quero ressaltar a habilidade de manipular dados em LocalStorage e habilidade para criar o botão de play/pause aonde seria o video.
+Quero ressaltar a habilidade de manipular dados em LocalStorage e habilidade para criar o botão animado de play/pause aonde seria o video. Além disso a responsividade esta impecável graças ao Bootstrap.
 
 ![image](https://user-images.githubusercontent.com/83486074/131729209-9c0cd3d9-c82f-4c24-8541-bf9fcda788c8.png)
 
